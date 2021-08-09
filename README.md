@@ -1,9 +1,9 @@
-### 👋  Hi there
-- 🎓 I'm a junior and majoring in CSE <br>
-- 🌱 I’m currently learning Swift and iOS <br>
-- 🚀 My Tech blog is here: https://dev-igation.tistory.com/
+### 👋   Hi there
+- 🎓   I'm a junior and majoring in CSE <br>
+- 🌱   I’m currently learning Swift and iOS <br>
+- 🚀   My Tech blog is here: https://dev-igation.tistory.com/
 
-### 🛠  Stack
+### 🛠   Stack
 Techs that I've been used at least once
 <br>
 <p>
@@ -14,7 +14,6 @@ Techs that I've been used at least once
   <img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
 </p>
 <!--
 **ceppetto/ceppetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
