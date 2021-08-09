@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=70" />
-
 ### Hi there 👋
-### 🌱 I’m currently learning Swift and iOS
-### 🚀 My Tech blog is https://dev-igation.tistory.com/
+🌱 I’m currently learning Swift and iOS
+🚀 My Tech blog is https://dev-igation.tistory.com/
 
 <h4 align="center">🛠 Stack</h4>
 <p align="center">
