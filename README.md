@@ -1,13 +1,14 @@
-<p align="center" font-size="16px">👋 Hi there</p>
+<p align="center" font-size="24px">👋 Hi there</p>
 <p align="center">
   🎓 I'm a junior and majoring in CSE <br>
   🌱 I’m currently learning Swift and iOS <br>
   🚀 My Tech blog is here: https://dev-igation.tistory.com/
 </p>
 
-<p align="center" font-size="16px">🛠 Stack</p>
+<p align="center" font-size="24px">🛠 Stack</p>
 <p align="center">
   Techs that I've been used at least once
+  <br>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
