@@ -1,11 +1,11 @@
-<p align="center" font-size="24px">👋 Hi there</p>
+<p align="center">👋  Hi there</p>
 <p align="center">
   🎓 I'm a junior and majoring in CSE <br>
   🌱 I’m currently learning Swift and iOS <br>
   🚀 My Tech blog is here: https://dev-igation.tistory.com/
 </p>
-
-<p align="center" font-size="24px">🛠 Stack</p>
+<br>
+<p align="center">🛠  Stack</p>
 <p align="center">
   Techs that I've been used at least once
   <br>
