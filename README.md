@@ -1,8 +1,10 @@
-### Hi there 👋
+<p align="center">
+  ### Hi there 👋
 🌱 I’m currently learning Swift and iOS <br>
 🚀 My Tech blog is https://dev-igation.tistory.com/
+</p>
 
-<h4 align="center">🛠 Stack</h4>
+<h2 align="center">🛠 Stack</h4>
 <p align="center">
   Techs that I've been used at least once
   <br>
