@@ -1,5 +1,6 @@
+<h2 align="center">Welcome</h2>
 <p align="center">
-  <h2>Hi there 👋 </h2>
+  Hi there 👋 
   🌱 I’m currently learning Swift and iOS <br>
   🚀 My Tech blog is https://dev-igation.tistory.com/
 </p>
