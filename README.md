@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Swift and iOS
+🌱 I’m currently learning Swift and iOS <br>
 🚀 My Tech blog is https://dev-igation.tistory.com/
 
 <h4 align="center">🛠 Stack</h4>
