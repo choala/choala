@@ -1,10 +1,10 @@
 <p align="center">
   <h2>Hi there 👋 </h2>
-🌱 I’m currently learning Swift and iOS <br>
-🚀 My Tech blog is https://dev-igation.tistory.com/
+  🌱 I’m currently learning Swift and iOS <br>
+  🚀 My Tech blog is https://dev-igation.tistory.com/
 </p>
 
-<h2 align="center">🛠 Stack</h4>
+<h2 align="center">🛠 Stack</h2>
 <p align="center">
   Techs that I've been used at least once
   <br>
