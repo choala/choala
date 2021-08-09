@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning ...
+<br>
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
