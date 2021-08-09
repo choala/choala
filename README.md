@@ -2,9 +2,10 @@
 - 🎓 I'm a junior and majoring in CSE <br>
 - 🌱 I’m currently learning Swift and iOS <br>
 - 🚀 My Tech blog is here: https://dev-igation.tistory.com/
-<br>
+
 ### 🛠  Stack</p>
-- Techs that I've been used at least once
+<br>
+Techs that I've been used at least once
 <br>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
