@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 I'm a junior and majoring in CSE <br>
-- 🌱 I’m currently learning Swift and iOS <br>
+- 🌱 I wanna be a Front-End developer <br>
 - 🚀 My Tech blog is here: https://dev-igation.tistory.com/
 
 ### Stack 🛠 
@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
 </p>
 
 <!--
