@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🎓 I'm a junior and majoring in CSE <br>
-- 🌱 I wanna be a Front-End developer <br>
-- 🚀 My Tech blog is here: https://dev-igation.tistory.com/
+- 🎓 I'm a senior and majoring in CSE <br>
+- 🌱 I wanna be a iOS developer <br>
+- 🚀 My Tech blog is here: https://velog.io/@choala
 
 ### Stack 🛠 
 <p>
