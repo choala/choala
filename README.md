@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎓 I'm a senior and majoring in CSE <br>
+- 🎓 I'm majoring in CSE <br>
 - 🌱 I wanna be a iOS developer <br>
 - 🚀 My Tech blog is here: https://velog.io/@choala
 
